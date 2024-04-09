@@ -1,0 +1,26 @@
+{
+    "dataContainer": {
+      "unresolved": 60,
+      "overdue": 16,
+      "open": 43,
+      "onHold": 64
+    },
+    "chart": {
+      "resolved": 449,
+      "received": 426,
+      "avgFirstResponseTime": "33m",
+      "avgResponseTime": "3h 8m",
+      "resolutionWithinSLA": "94%"
+    },
+    "leftTable": {
+        "waitingFeatureRequest": 4238,
+        "awaitingCustomerResponse": 1005,
+        "awaitingDeveloperFix": 914,
+        "pending": 281
+      },
+      "rightTable": {
+        "task1": "Finish ticket update",
+        "task2": "Create new ticket example",
+        "task3": "Update ticket report"
+      }
+  }
